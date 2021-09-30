@@ -14,6 +14,7 @@ function App_87() {
       <Todo text='Learn React'/>
       <Todo text='Learn PosgreSQL' />
       <Todo text='Learn NextJS' />
+      <Todo text='Test' />
       {/* <div className="card">
         <h2>Learn PosgreSQL</h2>
         <div className="actions">
