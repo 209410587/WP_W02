@@ -1,5 +1,5 @@
 import './App.css';
-import Todo from './component/Todo';
+import Todo from './component/Todo_87';
 
 function App_87() {
   return (
@@ -11,10 +11,10 @@ function App_87() {
           <button className="btn">Delete</button>
         </div>
       </div> */}
-      <Todo text='Learn React'/>
-      <Todo text='Learn PosgreSQL' />
-      <Todo text='Learn NextJS' />
-      <Todo text='Test' />
+      <Todo text="Learn React" />
+      <Todo text="Learn PosgreSQL" />
+      <Todo text="Learn NextJS" />
+      <Todo text="Test" />
       {/* <div className="card">
         <h2>Learn PosgreSQL</h2>
         <div className="actions">
@@ -22,7 +22,6 @@ function App_87() {
         </div>
       </div> */}
     </div>
-    
   );
 }
 
