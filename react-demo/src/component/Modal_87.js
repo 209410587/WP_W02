@@ -5,7 +5,9 @@ function Modal_87(props) {
       <button className="btn btn--alt" onClick={props.onClose}>
         Cancel
       </button>
-      <button className="btn">Confirm</button>
+      <button className="btn" onClick={props.onClose}>
+        Confirm
+      </button>
     </div>
   );
 }
